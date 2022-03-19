@@ -1,11 +1,12 @@
 beg= True
 pink= False
-buyj= True
+buyj= False
 hunt= True
 fish= True
-pm= True
-bet= True
-slots= True
+dig= True
+pm= False
+bet= False
+slots= False
 hl= True
 dep= True
 #id of the user reciving the pink
